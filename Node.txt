@@ -1,2 +1,5 @@
 node FILE_Name
-
+npm init
+npm start  "start": "node app.js"
+npm i nodemon --save-dev
+npm start  "start": "nodemon app.js"
